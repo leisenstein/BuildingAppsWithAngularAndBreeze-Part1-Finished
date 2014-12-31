@@ -1,4 +1,4 @@
-BuildingAppsWithAngularAndBreeze-Part1-Finished
+Building Apps With Angular And Breeze (Finished)
 ===============================================
 
 PluralSight Course : Building Apps with Angular and Breeze - Part 1
